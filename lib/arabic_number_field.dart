@@ -81,7 +81,7 @@ class _ArabicNumberFieldState extends State<ArabicNumberField> {
         ),
         errorBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(12),
-          borderSide: BorderSide(
+          borderSide: const BorderSide(
             color: Colors.red,
           ),
         ),
